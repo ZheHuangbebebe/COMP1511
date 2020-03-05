@@ -1,2 +1,2 @@
 # COMP1511
-My UNSW COMP1511 lab exercises and assignments
+My UNSW COMP1511 lab exercises
